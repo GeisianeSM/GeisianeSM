@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GeisianeSM
 - 👀 I'm interested in technology
-- 🌱 I'm currently learning Git and github at Santander Bank's Backend Bootcamp with Java. It was an opportunity that arose and I signed up. I had no idea I would get a scholarship.
-I'm also learning HTML, CSS and JavaScript on the Front-end with Gustavo Guanabara.
+- 🌱 I'm currently learning code versioning with Git and github in the Backend with Java Course at Bootcamp Santander. And I'm also learning HTML, CSS and JavaScript on the Front-end with Gustavo Guanabara.
 - 📫 linkedin  geisiane-moraes-desenvolvedor
 
 <!---
